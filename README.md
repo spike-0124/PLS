@@ -10,3 +10,9 @@ The data necessary for using this method is:
 *Raw export of all contact activity from the database
 *SFDC export of all opportunities with op-created date and op-closed date being key fields
 
+### Necessary information
+It will be necessary to discuss with the client some additional questions about their customers, including:
+*buying cycle length
+*onboarding process
+*nuture programs
+*contact archiving
